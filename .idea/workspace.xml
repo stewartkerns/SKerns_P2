@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6f399e75-1bad-4813-8f79-837a1fa156eb" name="Changes" comment="">
+    <list default="true" id="6f399e75-1bad-4813-8f79-837a1fa156eb" name="Changes" comment="Added linked list and associated methods to operate on it. Got the data seperated at the space so that it reads in numbers of any size.  Ran tests on the output, still need to convert the single char nodes into nodes with full words in them">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SKerns_P2/MessageDecoder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SKerns_P2/MessageDecoder.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SKerns_P2/SecretMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SKerns_P2/SecretMessage.java" afterDir="false" />
@@ -72,8 +72,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660356860928</updated>
-      <workItem from="1660356863342" duration="14237000" />
+      <workItem from="1660356863342" duration="35921000" />
     </task>
+    <task id="LOCAL-00001" summary="Added linked list and associated methods to operate on it. Got the data seperated at the space so that it reads in numbers of any size.  Ran tests on the output, still need to convert the single char nodes into nodes with full words in them">
+      <created>1660372785660</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1660372785660</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,5 +97,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added linked list and associated methods to operate on it. Got the data seperated at the space so that it reads in numbers of any size.  Ran tests on the output, still need to convert the single char nodes into nodes with full words in them" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added linked list and associated methods to operate on it. Got the data seperated at the space so that it reads in numbers of any size.  Ran tests on the output, still need to convert the single char nodes into nodes with full words in them" />
   </component>
 </project>
